@@ -4,11 +4,11 @@ void main()
 {
 clrscr();
 int i;
-printf("\nenter the integer:");
+printf("\nenter the positive integer:");
 scanf("%d",i);
 if(i<0)
 {
-printf("\nentered number is not integer");
+printf("\nentered number is not positive integer");
 }
 if(i%2==0)
 {
