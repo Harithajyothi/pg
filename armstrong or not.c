@@ -8,7 +8,7 @@ printf("\nenter the number:");
 scanf("%d',&num);
 if(num<=0)
 {
-printf("\nit is not a positive number");
+printf("\ncannot find for a negative number");
 }
 temp=num;
 while(temp!=0)
