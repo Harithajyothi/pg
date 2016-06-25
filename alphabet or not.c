@@ -5,7 +5,7 @@ void main()
 clrscr();
 char ch;
 printf("\nenter the character:");
-scanf("%c",ch);
+scanf("%c",&ch);
 if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 {
 printf("\nentered character is alphabet");
