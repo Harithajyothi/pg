@@ -10,7 +10,6 @@ if(num<0)
 {
   printf("\nentered number is not natural number");
 }
-}
 for(i=1;i<=num;i++)
 {
 sum=sum+i;
