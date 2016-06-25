@@ -4,7 +4,7 @@ void main()
 {
 clrscr();
 char ch;
-printf("\nenter the character:";
+printf("\nenter the character:");
 scanf("%c",ch);
 if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 {
